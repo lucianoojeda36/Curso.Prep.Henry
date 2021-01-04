@@ -1,0 +1,7 @@
+Variables: una variable guarda informacion para que pueda ser utilizada mas tarde
+Strings:es una cadena de caracteres
+funcion: es una seccion del codigo que calcula un valor o realiza una tarea de manera independiente del resto del codigo
+       argumentos: son los valores que recibe una funcion como entrada
+       return: devuelve una salida de la funcion.
+declaracion if: se utiliza para evaluar una expresion condicional ,si se cumple la condición (es verdadera), ejecutará un bloque de código. Si es falsa, es posible ejecutar otras sentencias.
+booleanos(true,false):es una expresión que se evalúa como un valor del tipo de datos verdadero o falso 
