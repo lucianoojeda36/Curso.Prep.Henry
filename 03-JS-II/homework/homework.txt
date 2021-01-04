@@ -1,0 +1,4 @@
+for: es un bucle  se usa cuando queremos repetir un conjunto de instrucciones un número finito de veces.
+`&&`: es un operador logico ,evaluara dos datos y devolvera verdadero si ambas expresiones son true, si uno o ambos son falsos devolvera false.
+`||`: es un operador logico ,evaluara dos datos y devolvera verdadero si una o ambas de los datos es true. Devolverá falso si ambos datos son false.
+`!`: es un operador logico,devolverá el valor booleano opuesto de lo que se le pasa.
