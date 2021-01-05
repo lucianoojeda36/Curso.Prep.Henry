@@ -1,0 +1,1 @@
+arrays: son vectores ,matrices que permiten almacenar un conjuntos de datos del mismo tipo y relacionados.
